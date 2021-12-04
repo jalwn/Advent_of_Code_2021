@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/vim,git,cmake,emacs,sublimetext,jetbrains+all,visualstudiocode,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,git,cmake,emacs,sublimetext,jetbrains+all,visualstudiocode,linux
+/*/a.out
 
 ### CMake ###
 CMakeLists.txt.user
